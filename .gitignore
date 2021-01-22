@@ -1,5 +1,4 @@
 /_build/
-/gallery/
 *.ncl
 .vscode/
 .idea/

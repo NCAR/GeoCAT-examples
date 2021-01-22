@@ -86,6 +86,7 @@ sphinx_gallery_conf = {
 
 html_theme_options = {
     'navigation_depth': 2,
+    'github_url': 'https://github.com/NCAR/GeoCAT-examples'
 }
 
 # the following lines suppress INFO messages when files are downloaded using geocat.datafiles
